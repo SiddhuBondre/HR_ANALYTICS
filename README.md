@@ -17,3 +17,18 @@ Measure employee engagement and satisfaction.
 Analyze workforce demographics (age, gender, department, tenure, etc.).
 
 Improve HR decision-making through data-driven insights.
+
+
+# 🛠️ Features
+
+Attrition Analysis – Identify trends, high-risk departments, and employee turnover rates.
+
+Recruitment Metrics – Time-to-hire, cost-per-hire, offer acceptance rate.
+
+Diversity & Inclusion – Gender ratio, age distribution, representation across levels.
+
+Performance Tracking – Compare employee performance ratings across departments.
+
+Attendance & Leave Insights – Monitor absenteeism and its impact.
+
+Interactive Filters – Drill down by department, region, job role, or tenure.
