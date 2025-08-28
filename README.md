@@ -32,3 +32,17 @@ Performance Tracking – Compare employee performance ratings across departments
 Attendance & Leave Insights – Monitor absenteeism and its impact.
 
 Interactive Filters – Drill down by department, region, job role, or tenure.
+
+# 📂 Dataset Used
+
+Employee Demographics (Age, Gender, Department, Education, Marital Status, etc.)
+
+Job-related Information (Role, Tenure, Salary, Job Level, Promotion, Training, etc.)
+
+Attrition Data (Attrition Status, Reason for Leaving)
+
+Recruitment Data (Hiring Source, Time-to-Hire, Recruitment Costs)
+
+Performance Ratings
+
+(You can replace this section with your actual dataset details.)
