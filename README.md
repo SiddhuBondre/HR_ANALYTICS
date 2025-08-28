@@ -46,3 +46,21 @@ Recruitment Data (Hiring Source, Time-to-Hire, Recruitment Costs)
 Performance Ratings
 
 (You can replace this section with your actual dataset details.)
+
+# 🖥️ Tools & Technologies
+
+Power BI / Tableau / Excel (for dashboarding)
+
+Python / R (for preprocessing & advanced analytics, optional)
+
+SQL (for database queries)
+
+# 📊 Key Insights (Example)
+
+Sales department shows the highest attrition rate (18%).
+
+Average tenure of employees who left is less than 3 years.
+
+Female representation in leadership is only 12%, highlighting diversity concerns.
+
+Training participation is strongly linked to higher performance ratings.
