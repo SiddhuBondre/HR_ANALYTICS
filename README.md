@@ -64,3 +64,17 @@ Average tenure of employees who left is less than 3 years.
 Female representation in leadership is only 12%, highlighting diversity concerns.
 
 Training participation is strongly linked to higher performance ratings.
+
+# 🚀 How to Use
+
+Load the dashboard file (.pbix for Power BI / .twbx for Tableau / .xlsx for Excel).
+
+Use filters (Department, Gender, Age, Tenure) to explore insights.
+
+Review charts and KPIs to identify problem areas and opportunities.
+
+Export or share reports with HR managers.
+
+# 📌 Conclusion
+
+The HR Analytics Dashboard empowers HR professionals to make smarter, data-driven decisions. By identifying attrition risks, monitoring diversity, and analyzing employee performance, organizations can enhance employee satisfaction, reduce turnover, and boost workforce productivity.
